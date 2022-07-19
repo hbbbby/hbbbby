@@ -1,7 +1,8 @@
 ### Hi there 👋
 I'm Yubin Jeong
 
-<br>
+
+##
 <h3 align=center>💻 TECH STACK 💻</h3>
 
 <div align=center><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"></a>
@@ -14,5 +15,4 @@ I'm Yubin Jeong
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"></a>
 <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"></a>
 <div>

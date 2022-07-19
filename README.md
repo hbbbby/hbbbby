@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Yubin Jeong
 
 <br>
 <h3 align=center>💻 TECH STACK 💻</h3>

@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Yubin Jeong
+I'm Youbin Jeong
 
 
 ##

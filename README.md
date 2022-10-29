@@ -16,3 +16,6 @@ I'm Youbin Jeong
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"></a>
 <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"></a>
 <div>
+
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=newsoi)](https://solved.ac/newsoi/) 

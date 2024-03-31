@@ -3,8 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=140&color=gradient&customColorList=15&text=YUBIN%20JEONG&section=header&desc=Welcome%20to%20Yubin's%20GitHub%20🙌🏻&fontAlignY=45&descAlignY=80&reversal=false&textBg=false&fontSize=65&animation=fadeIn)
 
 ### Hi there 👋
-I'm Yubin Jeong
+I'm Yubin Jeong <br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF9D9D&title_bg=%23827373&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ##
 <h3 align=center>💻 TECH STACK 💻</h3>
@@ -21,7 +22,7 @@ I'm Yubin Jeong
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"></a>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Unrealengine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"></a>
 <div>
 
   

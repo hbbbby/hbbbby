@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=140&color=gradient&customColorList=15&text=YUBIN%20JEONG&section=header&desc=Welcome%20to%20Yubin's%20GitHub%20🙌🏻&fontAlignY=45&descAlignY=80&reversal=false&textBg=false&fontSize=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=140&color=gradient&customColorList=15text=YUBIN%20JEONG&section=header&desc=Welcome%20to%20Yubin's%20GitHub%20🙌🏻&fontAlignY=45&descAlignY=80&reversal=false&textBg=false&fontSize=65&animation=twinkling)
 
 ### Hi there 👋
 I'm Yubin Jeong <br>

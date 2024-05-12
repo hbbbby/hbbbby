@@ -23,11 +23,11 @@
 <br>
 
 ## 🏆 Award
-- 2022 국방 AI 경진대회 MACON 특별상 (4등)
-- 2023 SW중심대학 공동 AI 경진대회 SW중심대학협의회장상 (3등)
-- 2023 Hallym SW Week AI 경진대회 은상 (2등)
-- 2023 Hallym SW Week 파이썬 경진대회 동상 (3등)
-- 2023 SW 캡스톤 디자인 경진대회 입선 (4등)
+- 2022 Military AI Competition(MACON) ***4th place***
+- 2023 Joint AI Competition of SW-Central Universities ***3rd place***
+- 2023 Hallym SW Week AI Competition ***2nd place***
+- 2023 Hallym SW Week Python Competition ***3rd place***
+- 2023 Hallym Capstone Design Contest ***4th place***
 
 <br>
 

@@ -16,18 +16,9 @@
 <br>
 
 ## 🤔 Interest
-- Deep Learning
 - Computer Vision
 - Multimodal Learning
-  
-<br>
-
-## 🏆 Award
-- 2022 Military AI Competition(MACON) ***4th place***
-- 2023 Joint AI Competition of SW-Central Universities ***3rd place***
-- 2023 Hallym SW Week AI Competition ***2nd place***
-- 2022 Hallym SW Week Python Competition ***3rd place***
-- 2023 Hallym Capstone Design Contest ***4th place***
+- Medical AI
 
 <br>
 

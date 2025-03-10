@@ -23,4 +23,4 @@
 <br>
 
 ## 📩 Contact
-jungyoubin52@gmail.com
+yubin@korea.ac.kr

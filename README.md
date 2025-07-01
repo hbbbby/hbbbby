@@ -18,6 +18,7 @@
 
 ## 🤔 Interest
 - Computer Vision
+- Vision-Language Model
 - Multimodal Learning
 - Medical AI
 
